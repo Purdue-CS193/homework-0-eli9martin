@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I like the TA's teaching the class!
+- I like that we get to code and do fun thing with our websites.
 
 1. Numbered
 2. List
